@@ -1,10 +1,5 @@
 {
   "latestGameVersion": "1.0.0",
   "latestLauncherVersion": "1.0.0",
-  "patches": [
-    {
-      "version": "1.0.0",
-      "file": "patches/1.0.0.zip"
-    }
-  ]
+  "patches": []
 }
