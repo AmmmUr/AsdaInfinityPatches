@@ -2,12 +2,7 @@
   "latestGameVersion": "1.0.2",
   "latestLauncherVersion": "1.0.0",
   "patches": [
-    {
-      "version": "1.0.1",
-      "fileName": "v1.0.1.zip",
-      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.1/v1.0.1.zip",
-      "size": 5212263
-    },
+
     {
       "version": "1.0.2",
       "fileName": "v1.0.2.rar",
