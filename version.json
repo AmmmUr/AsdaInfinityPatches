@@ -1,5 +1,5 @@
 {
-  "latestGameVersion": "1.0.14",
+  "latestGameVersion": "1.0.15",
   "latestLauncherVersion": "1.0.4",
     "launcher": {
     "version": "1.0.4",
@@ -79,6 +79,12 @@
       "fileName": "v1.0.14.zip",
       "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.14/v1.0.14.zip",
       "size": 1279
+    },
+    {
+      "version": "1.0.15",
+      "fileName": "v1.0.15.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.15/v1.0.15.zip",
+      "size": 17577578
     }
   ]
 }
