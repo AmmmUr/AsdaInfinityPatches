@@ -1,10 +1,10 @@
 {
   "latestGameVersion": "1.0.36",
-  "latestLauncherVersion": "1.0.11",
+  "latestLauncherVersion": "1.0.12",
     "launcher": {
-    "version": "1.0.11",
-    "fileName": "L1.0.11.zip",
-    "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/L1.0.11/L1.0.11.zip",
+    "version": "1.0.12",
+    "fileName": "L1.0.12.zip",
+    "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/L1.0.12/L1.0.12.zip",
     "size": 640867
   },
   "patches": [
