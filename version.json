@@ -1,5 +1,5 @@
 {
-  "latestGameVersion": "1.0.35",
+  "latestGameVersion": "1.0.36",
   "latestLauncherVersion": "1.0.11",
     "launcher": {
     "version": "1.0.11",
@@ -9,6 +9,78 @@
   },
   "patches": [
 
+    {
+      "version": "1.0.13",
+      "fileName": "v1.0.13.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.13/v1.0.13.zip",
+      "size": 15756131
+    },
+    {
+      "version": "1.0.14",
+      "fileName": "v1.0.14.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.14/v1.0.14.zip",
+      "size": 1279
+    },
+    {
+      "version": "1.0.15",
+      "fileName": "v1.0.15.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.15/v1.0.15.zip",
+      "size": 17577578
+    },
+    {
+      "version": "1.0.16",
+      "fileName": "v1.0.16.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.16/v1.0.16.zip",
+      "size": 4193493
+    },
+    {
+      "version": "1.0.17",
+      "fileName": "v1.0.17.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.17/v1.0.17.zip",
+      "size": 2033061
+    },
+    {
+      "version": "1.0.18",
+      "fileName": "v1.0.18.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.18/v1.0.18.zip",
+      "size": 6165290
+    },
+    {
+      "version": "1.0.19",
+      "fileName": "v1.0.19.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.19/v1.0.19.zip",
+      "size": 8736825
+    },
+    {
+      "version": "1.0.20",
+      "fileName": "v1.0.20.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.20/v1.0.20.zip",
+      "size": 14185537
+    },
+    {
+      "version": "1.0.21",
+      "fileName": "v1.0.21.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.21/v1.0.21.zip",
+      "size": 5188899
+    },
+    {
+      "version": "1.0.22",
+      "fileName": "v1.0.22.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.22/v1.0.22.zip",
+      "size": 8053496
+    },
+    {
+      "version": "1.0.23",
+      "fileName": "v1.0.23.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.23/v1.0.23.zip",
+      "size": 5464859
+    },
+    {
+      "version": "1.0.24",
+      "fileName": "v1.0.24.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.24/v1.0.24.zip",
+      "size": 26670063
+    },
     {
       "version": "1.0.25",
       "fileName": "v1.0.25.zip",
@@ -62,6 +134,12 @@
       "fileName": "v1.0.35.zip",
       "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.35/v1.0.35.zip",
       "size": 3380376
+    },
+    {
+      "version": "1.0.36",
+      "fileName": "v1.0.36.zip",
+      "url": "https://github.com/AmmmUr/AsdaInfinityPatches/releases/download/v1.0.36/v1.0.36.zip",
+      "size": 87565686
     }
   ]
 }
